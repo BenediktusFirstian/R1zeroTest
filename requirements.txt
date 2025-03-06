@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+trl>=0.7.2
+numpy>=1.24.0
+latex2sympy2-extended>=1.0.0
+math-verify>=1.0.0
+langdetect>=1.0.9
+pandas>=2.0.0
+accelerate>=0.25.0
